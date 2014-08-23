@@ -5,6 +5,6 @@ Yeah, you guessed it. Ok, I'm just adding a bunch of useless words here so I hav
 Adding junk.
 
 
-First edit using the GitHib client and GVim.
+First edit using the GitHub client and GVim.
 
 
